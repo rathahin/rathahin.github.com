@@ -5,4 +5,4 @@ date:   2014-09-17 20:02:49
 categories: Tutorial
 ---
 
-{% youtube xG2bbijiuzs %}
+<iframe width="640" height="360" src="//www.youtube.com/embed/xG2bbijiuzs" frameborder="0" allowfullscreen></iframe>
